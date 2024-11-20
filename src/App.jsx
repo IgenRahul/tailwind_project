@@ -1,7 +1,14 @@
-
 function App() {
-  return <div>
-    hello how do you do!!
+  return <div className="grid grid-cols-3">
+   <div className="bg-red-500">
+    avcd
+   </div>
+   <div>
+    bgim
+   </div>
+   <div className="bg-red-900">
+    hahah
+   </div>
   </div>
 }
 
